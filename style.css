@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+  font-family: "";
+  color:darkgreen;
+}
+h2 {
+  text-align: center;
+  font-family: "";
+  color:darkgreen;
+}
+ body {
+   background-image: url('https://assets.simpleviewcms.com/simpleview/image/fetch/c_fill,f_jpg,h_605,q_65,w_1200/https://media.newmindmedia.com/TellUs/image/%3Ffile%3DD174B459FFAAAE0B62107728457E341D8FDD6062.jpg%26dh%3D389%26dw%3D800%26cropX%3D0%26cropY%3D0%26cropH%3D1268%26cropW%3D2605%26t%3D4');
+ }
+
+img {
+  float: left;
+  margin-right: 15px;
+}
